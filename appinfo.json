@@ -1,0 +1,25 @@
+{
+  "uuid": "2b1404df-9e51-474e-851a-4c6e67668e51",
+  "shortName": "Ninth Hour",
+  "longName": "Ninth Hour Orthodox Christian Watchface",
+  "companyName": "Semperos",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "enableMultiJS": true,
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "bitmap",
+        "name": "IMAGE_BACKGROUND",
+        "file": "images/orthodox-cross.png"
+      }
+    ]
+  }
+}
